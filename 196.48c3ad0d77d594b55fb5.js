@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[196],{4196:(e,n,s)=>{s.r(n),s.d(n,{default:()=>a});var r=s(5893),c=s(5443),l=s(3444);const a=function(){var e=(0,c.$)("MainPage").t;return(0,r.jsxs)("div",{children:[e("Главная"),(0,r.jsx)(l.Zb,{children:(0,r.jsx)(l.eW,{children:e("Выбери пункт меню слева")})})]})}}}]);
